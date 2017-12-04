@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Academic Owl</string>
+    <string-array name="transport_mode">
+        <item>Bus</item>
+        <item>Car</item>
+        <item>Bike</item>
+        <item>Walk</item>
+    </string-array>
+</resources>
